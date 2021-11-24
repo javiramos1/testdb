@@ -1,0 +1,34 @@
+{
+    "graphql": 
+    {
+        "addAssets": {
+          "clientMutationId": "2",
+          "api": {
+            "id": "ApiType:00000000-0000-0000-0000-000000000000",
+            "currentUser": {
+              "id": "CurrentUser:00000000-0000-0000-0000-000000000000",
+              "_currentViewt8mCn": {
+                "view": {
+                  "name": "All assets",
+                  "id": "View:4ef0e45c-f775-4342-b0ea-bc69dd3e58f0"
+                },
+                "id": "CurrentView:00000000-0000-0000-0000-000000000000|global-view"
+              },
+              "_recentAssetTypes2MG0As": [
+                {
+                  "id": "AssetType:00000000-0000-0000-0000-000000011003",
+                  "name": "Acronym",
+                  "description": "An abbreviation that is used as a word. It is formed from the initial letters of a Business Term.\nExamples: ERP, EDW, EAD"
+                }
+              ]
+            }
+          },
+          "assets": [
+            {
+              "id": "Asset:71e5c809-4186-4c38-8460-f203e6e8b3ed",
+              "displayName": "test2"
+            }
+          ]
+        }
+      }
+  }
